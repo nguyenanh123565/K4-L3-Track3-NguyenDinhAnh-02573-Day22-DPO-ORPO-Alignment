@@ -1,7 +1,7 @@
 # Bài phản tư — Lab 22 (căn chỉnh mô hình bằng DPO/ORPO)
 
-**Tên:** Nguyễn Danh Gia Minh  
-**Khoá:** K4 - 2A202602441
+**Tên:** Nguyễn Đình Anh
+**Khoá:** K4 - 2A202602573
 **Tier đã chạy:** T4  
 **Ngày:** 2026-10-08
 
